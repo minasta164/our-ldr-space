@@ -1,0 +1,11 @@
+{
+  "name": "Tentang Kita - Our LDR Space",
+  "description": "A romantic space for Aca and Yas to bridge the distance with real-time personal chat, memories, gallery, cinema, and shared moments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
